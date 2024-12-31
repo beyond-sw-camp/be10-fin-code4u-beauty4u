@@ -1,0 +1,3 @@
+[submodule "backend-flask"]
+	path = backend-flask
+	url = https://github.com/code-4-u/beauty-4-u-BE-Flask.git
