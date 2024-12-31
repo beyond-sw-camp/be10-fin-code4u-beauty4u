@@ -1,3 +1,9 @@
 [submodule "backend-flask"]
 	path = backend-flask
 	url = https://github.com/code-4-u/beauty-4-u-BE-Flask.git
+[submodule "backend-spring"]
+	path = backend-spring
+	url = https://github.com/code-4-u/beauty-4-u-BE.git
+[submodule "front"]
+	path = front
+	url = https://github.com/code-4-u/beauty-4-u-FE.git
