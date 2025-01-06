@@ -156,8 +156,8 @@ Beauty4U는 마케터가 고객 관리와 업무 프로세스를 체계적으로
 <details>
 <summary>채팅</summary>
 
-### 시연 영상
-[영상이 들어갈 자리입니다]
+[채팅1](/images/채팅방.mp4)
+[채팅2](/images/채팅방2.mp4)
 </details>
 
 <details>
