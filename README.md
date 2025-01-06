@@ -136,7 +136,7 @@ Beauty4U는 마케터가 고객 관리와 업무 프로세스를 체계적으로
 <summary>상품 분석</summary>
 
 ### 시연 영상
-[영상이 들어갈 자리입니다]
+![상품분석화면](https://github.com/user-attachments/assets/5f092e95-f607-4448-869a-47b0ff92075e)
 </details>
 
 <details>
@@ -156,7 +156,7 @@ Beauty4U는 마케터가 고객 관리와 업무 프로세스를 체계적으로
 <summary>캡쳐</summary>
 
 ### 시연 영상
-[영상이 들어갈 자리입니다]
+![상품분석캡처,댓글화면](https://github.com/user-attachments/assets/737d0717-deae-45ed-a844-f2b25225a500)
 </details>
 
 <details>
