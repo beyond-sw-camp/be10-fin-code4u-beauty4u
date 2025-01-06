@@ -129,7 +129,6 @@ Beauty4U는 마케터가 고객 관리와 업무 프로세스를 체계적으로
 <details>
 <summary>상품 분석</summary>
 
-### 시연 영상
 ![상품분석화면](https://github.com/user-attachments/assets/5f092e95-f607-4448-869a-47b0ff92075e)
 </details>
 
@@ -154,8 +153,7 @@ Beauty4U는 마케터가 고객 관리와 업무 프로세스를 체계적으로
 <details>
 <summary>캡쳐</summary>
 
-### 시연 영상
-![상품분석캡처,댓글화면](https://github.com/user-attachments/assets/737d0717-deae-45ed-a844-f2b25225a500)
+![캡처본](https://github.com/user-attachments/assets/cf19b701-63c1-446a-a75f-6f8c00878b7a)
 </details>
 
 <details>
@@ -186,8 +184,7 @@ Beauty4U는 마케터가 고객 관리와 업무 프로세스를 체계적으로
 <details>
 <summary>팀 게시판</summary>
 
-### 시연 영상
-[영상이 들어갈 자리입니다]
+![워크보드](https://github.com/user-attachments/assets/976a724b-2e55-49d0-83ed-53dd6016ec39)
 </details>
 
 ## 8. 백엔드 테스트 결과서
