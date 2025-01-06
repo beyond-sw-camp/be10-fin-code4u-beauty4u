@@ -136,14 +136,19 @@ Beauty4U는 마케터가 고객 관리와 업무 프로세스를 체계적으로
 <details>
 <summary>프로모션 분석</summary>
 
-[프로모션 분석](/images/프로모션%20분석.mp4)
+![프로모션 분석](/images/프로모션_분석.gif)
 </details>
 
 <details>
-<summary>프로모션 메일 알림</summary>
+<summary>프로모션 메일 알림 발송</summary>
 
-[프로모션 메일 알림 발송](/images/프로모션%20알림%20발송.mp4)
-[프로모션 알림 이메일 도착](/images/프로모션%20알림%20이메일%20도착.mp4)
+![프로모션 메일 알림 발송](/images/프로모션_알림_발송.gif)
+</details>
+
+<details>
+<summary>프로모션 메일 알림 수신</summary>
+
+![프로모션 알림 이메일 도착](/images/프로모션_알림_메일_수신.gif)
 </details>
 
 <details>
