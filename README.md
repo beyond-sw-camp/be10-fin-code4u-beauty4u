@@ -115,22 +115,16 @@ Beauty4U는 마케터가 고객 관리와 업무 프로세스를 체계적으로
 <details>
 <summary>메인화면 매출액 조회</summary>
 
-[ ]
+[매출액 조회](/images/매출액조회.gif)
 </details>
 
 <details>
 <summary>메인화면 일정 조회</summary>
 
-### 시연 영상
-[영상이 들어갈 자리입니다]
+
+[일정조회](/images/일정조회.gif)
 </details>
 
-<details>
-<summary>헤더 알림</summary>
-
-### 시연 영상
-[영상이 들어갈 자리입니다]
-</details>
 
 <details>
 <summary>상품 분석</summary>
@@ -192,6 +186,8 @@ Beauty4U는 마케터가 고객 관리와 업무 프로세스를 체계적으로
 [프론트 CI/CD 테스트](/images/프론트CI&CD.gif)
 
 ## 12. 시연 영상
+
+[시연 영상](https://youtu.be/wCX2L5fWT2I)
 
 ## 13. 회고
 
