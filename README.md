@@ -186,6 +186,7 @@ Beauty4U는 마케터가 고객 관리와 업무 프로세스를 체계적으로
 [백엔드 테스트 결과서](https://docs.google.com/spreadsheets/d/1y1aZ92K_QpOzciJwpgCuhqPSOSnXumfYUALrzyR73cU/edit?gid=1403989638#gid=1403989638)
 
 ## 10. 통합 테스트 결과서
+[통합 테스트 결과서](https://docs.google.com/spreadsheets/d/1y1aZ92K_QpOzciJwpgCuhqPSOSnXumfYUALrzyR73cU/edit?gid=1165142132#gid=1165142132)
 
 ## 11. CI/CD 계획서
 [백엔드 CD 테스트](/images/백엔드CD.gif)
