@@ -109,7 +109,10 @@ Beauty4U는 마케터가 고객 관리와 업무 프로세스를 체계적으로
 ### 6. 화면 설계서
 [🎨 Figma](https://www.figma.com/design/CM9OyisX6cHHiWgW5xNud9/%EC%9D%B4%EB%A6%AC%EB%A1%9C-%EC%98%A4%EC%84%B8%EC%9A%94?node-id=0-1&t=dVJ5R6nE86Fn1dRR-1)
 
-## 7. 주요 기능
+### 7. 프로그램 사양서
+[프로그램 사양서](https://docs.google.com/spreadsheets/d/1y1aZ92K_QpOzciJwpgCuhqPSOSnXumfYUALrzyR73cU/edit?gid=536949063#gid=536949063)
+
+### 8. 주요 기능
 
 ### 메인화면
 
@@ -217,18 +220,18 @@ Beauty4U는 마케터가 고객 관리와 업무 프로세스를 체계적으로
 
 </details>
 
-## 8. 백엔드 테스트 결과서
+## 9. 백엔드 테스트 결과서
 
 [💿UI/UX 테스트 결과서](https://docs.google.com/spreadsheets/d/1y1aZ92K_QpOzciJwpgCuhqPSOSnXumfYUALrzyR73cU/edit?gid=1030744286#gid=1030744286)
 
-## 9. UI/UX 테스트 결과서
+## 10. UI/UX 테스트 결과서
 
 [📜백엔드 테스트 결과서](https://docs.google.com/spreadsheets/d/1y1aZ92K_QpOzciJwpgCuhqPSOSnXumfYUALrzyR73cU/edit?gid=1403989638#gid=1403989638)
 
-## 10. 통합 테스트 결과서
+## 11. 통합 테스트 결과서
 [📑통합 테스트 결과서](https://docs.google.com/spreadsheets/d/1y1aZ92K_QpOzciJwpgCuhqPSOSnXumfYUALrzyR73cU/edit?gid=1165142132#gid=1165142132)
 
-## 11. CI/CD 계획서
+## 12. CI/CD 계획서
 
 <details>
     <summary>프론트 CI&CD 성공 화면 (gif)</summary>
@@ -269,11 +272,11 @@ Beauty4U는 마케터가 고객 관리와 업무 프로세스를 체계적으로
 
 ![](/images/cicd계획서.png)
 
-## 12. 시연 영상
+## 13. 시연 영상
 
 ### [🎥시연 영상](https://youtu.be/wCX2L5fWT2I)
 
-## 13. 회고
+## 14. 회고
 
 | 이름 | 회고                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | --- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
